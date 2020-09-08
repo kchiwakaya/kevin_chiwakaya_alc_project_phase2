@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="gc">#2BC71F</color>
+    <color name="err">#E60C2C</color>
+    <color name="erro">#EB2213</color>
+    <color name="mygray">#111010</color>
+    <color name="newGray">#3D3D3D</color>
+</resources>
